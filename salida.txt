@@ -1,0 +1,17 @@
+total 245
+-rwxrwxrwx 1 joan joan    53 nov 24 12:18 comandos1.sh
+-rwxrwxrwx 1 joan joan 16176 dic 12 12:01 contar
+-rwxrwxrwx 1 joan joan   334 dic 12 12:01 contar.c
+-rwxrwxrwx 1 joan joan 17048 dic  9 13:08 nivel1
+-rwxrwxrwx 1 joan joan  5005 dic  9 13:22 nivel1.c
+-rwxrwxrwx 1 joan joan 17400 dic  9 13:29 nivel2
+-rwxrwxrwx 1 joan joan  8355 dic  9 13:28 nivel2.c
+-rwxrwxrwx 1 joan joan 21904 dic  9 13:55 nivel3
+-rwxrwxrwx 1 joan joan 11504 dic 12 11:34 nivel3.c
+-rwxrwxrwx 1 joan joan 22168 dic 12 12:09 nivel4
+-rwxrwxrwx 1 joan joan 14658 dic 12 11:45 nivel4.c
+-rwxrwxrwx 1 joan joan 22384 dic 15 12:38 nivel5
+-rwxrwxrwx 1 joan joan 18194 dic 15 12:48 nivel5.c
+-rwxrwxrwx 1 joan joan 22536 dic 17 22:51 nivel6
+-rwxrwxrwx 1 joan joan 21700 dic 17 22:51 nivel6.c
+-rwxrwxrwx 1 joan joan     0 dic 17 22:53 salida.txt
